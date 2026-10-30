@@ -62,3 +62,5 @@ explainer, in English and French.
 
 **Languages:** French, English.
 **Tools I use most:** Python, Rust, TypeScript, CUDA, LaTeX, Git.
+
+**Contact:** arielstone883 [at] gmail [dot] com
