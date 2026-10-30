@@ -17,7 +17,7 @@ pass/fail thresholds written down before the experiment, and a plain account of 
 **Looking for:** an internship or a research opportunity in software engineering, AI systems or
 biomedical engineering.
 
-## Research: troncons
+## Research: [troncons](https://github.com/stoneariel491-sudo/troncons)
 
 **Serving gpt-oss-120b, a 63.4 GB model, on a laptop with 16 GB of RAM and an 8 GB RTX 4060.**
 The weights stay compressed on disk and are decoded only when a computation needs them; the host
@@ -35,7 +35,7 @@ working set peaks at 384 MB, and the GPU footprint is set by the card, not by th
   +3.4 %; a crossed experiment traces the rest of the gain to the pattern of disk read requests
   on this machine, and the write-up says it is not a portable result.
 - Written up in three technical volumes, in English and French. A short paper is in preparation;
-  the code is not public yet.
+  the code, the measurements and the volumes are public in [troncons](https://github.com/stoneariel491-sudo/troncons).
 
 **How I work:** I directed this project with Claude Code. I set the goals, declared the success
 criteria before any measurement, and had every key result redone by independent reviewer agents
